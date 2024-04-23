@@ -22,7 +22,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="35dp"
                 android:layout_gravity="center_horizontal"
-                android:background="#1B5E20"
+                android:background="#009688"
                 android:text="@string/itemsList"
                 android:textAlignment="center"
                 android:textColor="@color/white"
