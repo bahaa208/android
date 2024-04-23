@@ -3,7 +3,7 @@
     android:id="@+id/add"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#C3F8FF"
+    android:background="#F49891"
     android:orientation="vertical">
 
     <LinearLayout
