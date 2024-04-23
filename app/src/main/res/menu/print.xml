@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ModifyItemActivity">
+
+    <item
+        android:id="@+id/print"
+        android:orderInCategory="1"
+        android:icon="@drawable/printer_white"
+        android:title="@string/print"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/empty"
+        android:orderInCategory="2"
+        android:title="@string/empty"
+
+        app:showAsAction="always"/>
+</menu>

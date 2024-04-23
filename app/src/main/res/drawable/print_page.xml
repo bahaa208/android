@@ -1,0 +1,90 @@
+<!-- <html>
+    <body>
+        <div style="background-color:white;color:black;padding:20px; margin-right:70px; margin-left:70px; text-align:right; border:1px solid #333; border-radius:8px;">
+            
+            
+            
+            <div style="background-color:white; " >
+                <h1 style="color:black; margin-right: 70px; font-size:40px;border-bottom: 2px solid #333; width:max-content; margin-left: auto;">חשבונית</h1>
+            </div>
+            
+
+
+            <div style="background-color:white; width: 70%;  border-bottom: 1px solid #333; margin: 70 auto 0;">
+                <table style="width:100%; border-collapse:collapse; table-layout:fixed;">
+                    <tr>
+                      <td width="30%" style="text-align:center;">
+                        <p style="font-size: 16px;">date</p>
+                      </td>
+                      <td width="30%" style="text-align:right; padding-right: 30px;">
+                        <p style="font-size: 16px;">number</p>
+                      </td>
+                      <td width="30%" style="text-align:left;">
+                        <p style="font-size: 16px;">number</p>
+                      </td>
+                    </tr>
+                  </table>
+                
+                
+            </div>
+
+
+            <div  style="background-color:white; width: 80%;  vertical-align: middle; margin: 70 auto 0;">
+                <table style="width:100%; border-collapse:collapse; table-layout:fixed; background-color:silver;">
+                    <tr>
+                      <td width="25%" style="border-top: 2px solid #333; border-bottom: 2px solid #333; border-right: 1px solid #333; text-align:center;">
+                        <p style="font-size: 18px;">total</p>
+                      </td>
+                      <td width="10%" style="border-top: 2px solid #333; border-bottom: 2px solid #333; border-right: 1px solid #333; text-align:center;">
+                        <p style="font-size: 18px;">quantity</p>
+                      </td>
+                      <td width="25%" style="border-top: 2px solid #333; border-bottom: 2px solid #333; border-right: 1px solid #333; text-align:center;">
+                        <p style="font-size: 18px;">price</p>
+                      </td>
+                      <td width="30%" style="border-top: 2px solid #333; border-bottom: 2px solid #333; border-right: 1px solid #333; text-align:center;">
+                        <p style="font-size: 18px;">name</p>
+                      </td>
+                      <td width="10%" style="border-top: 2px solid #333; border-bottom: 2px solid #333; text-align:center;">
+                        <p style="font-size: 18px;">number</p>
+                      </td>
+                    </tr>
+                  </table>
+                  <table style="width:100%; border-collapse:collapse; table-layout:fixed; border:1px solid #333; border-radius: 8px;">
+                    <tr style="height:37px;">
+                      <td width="25%" style="border-bottom: 1px solid #333; border-right: 1px solid #333; text-align:center;">
+                        <p style="font-size: 20px;">total</p>
+                      </td>
+                      <td width="10%" style="border-bottom: 1px solid #333; border-right: 1px solid #333; text-align:center;">
+                        <p style="font-size: 20px;">quantity</p>
+                      </td>
+                      <td width="25%" style="border-bottom: 1px solid #333; border-right: 1px solid #333; text-align:center;">
+                        <p style="font-size: 20px;">price</p>
+                      </td>
+                      <td width="30%" style="border-bottom: 1px solid #333; border-right: 1px solid #333; text-align:center;">
+                        <p style="font-size: 20px;">name</p>
+                      </td>
+                      <td width="10%" style="border-bottom: 1px solid #333; text-align:center;">
+                        <p style="font-size: 20px;">number</p>
+                      </td>
+                    </tr>
+                  </table>
+            </div>
+
+            <div style="background-color:white; width: 30%;  vertical-align: middle; margin: 90 120 70;">
+                <table style="width:100%; border-collapse:collapse; table-layout:fixed;">
+                    <tr>
+                      <td width="30%" style="border-bottom: 1px solid #333; text-align:center;">
+                        <p style="font-size: 20px;">number</p>
+                      </td>
+                      <td width="30%" style="text-align:center;">
+                        <p style="font-size: 20px;">total</p>
+                      </td>
+                    </tr>
+                  </table>
+            </div>
+        </div>
+    </body>
+</html> -->
+<shape>
+
+</shape>
