@@ -3,7 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#A2C5C4"
+    android:background="#F5F5DC"
     android:orientation="vertical">
     <LinearLayout
         android:layout_width="match_parent"
@@ -86,7 +86,7 @@
                 android:layout_marginRight="22dp"
                 android:layout_weight="1"
                 android:hint="@string/itemName"
-                android:textSize="16sp"
+                android:textSize="20sp"
                 android:maxLines="1"/>
         </LinearLayout>
         <LinearLayout

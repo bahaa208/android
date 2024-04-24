@@ -3,7 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#A2C5C4"
+    android:background="#F5F5DC"
     android:orientation="vertical">
     <LinearLayout
         android:layout_width="match_parent"
@@ -140,7 +140,7 @@
             android:layout_marginRight="10dp"
             android:layout_marginLeft="20dp"
             android:textColor="@color/white"
-            android:backgroundTint="@color/delete"/>
+            android:backgroundTint="@color/teal_700"/>
         <Button
             android:id="@+id/modifyInvoiceLine"
             android:layout_width="wrap_content"
