@@ -31,8 +31,8 @@
     <string name="number">מס</string>
     <string name="invoice">חשבונית</string>
     <string name="search">חפש</string>
-    <string name="itemsList">רשימת מוצרים</string>
+    <string name="itemsList"> מוצרים</string>
     <string name="invoicesList">רשימת החשבוניות</string>
     <string name="print">הדפס</string>
-    <string name="showAll">הציג הכל</string>
+    <string name="showAll"> כל המוצרים</string>
 </resources>
