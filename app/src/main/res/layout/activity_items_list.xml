@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="10dp"
-    android:background="#F5F5DC"
+    android:background="#ECAFC4"
     android:layout_marginBottom="10dp">
 
     <LinearLayout
@@ -42,7 +42,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_gravity="center_vertical"
-                android:background="#1B5E20"
+                android:background="@color/teal_700"
                 android:gravity="center_vertical"
                 android:text="@string/itemsList"
                 android:textColor="@color/white"
