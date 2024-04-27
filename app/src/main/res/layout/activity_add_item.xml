@@ -17,6 +17,8 @@
             android:paddingRight="20dp"
             android:text="@string/addItem"
             android:textSize="30sp"
+            android:gravity="center_vertical|center_horizontal"
+
             android:layout_marginBottom="20dp" />
         <LinearLayout
             android:layout_width="match_parent"
@@ -26,7 +28,7 @@
             <EditText
                 android:id="@+id/catalogNumberAdd"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="48dp"
                 android:layout_weight="1"
                 android:ems="10"
                 android:inputType="number"
@@ -53,7 +55,7 @@
             <EditText
                 android:id="@+id/itemNameAdd"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="48dp"
                 android:layout_weight="1"
                 android:ems="10"
                 android:inputType="text"
@@ -79,7 +81,7 @@
             <EditText
                 android:id="@+id/itemPriceAdd"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="48dp"
                 android:layout_weight="1"
                 android:ems="10"
                 android:inputType="numberDecimal"
@@ -114,7 +116,7 @@
                 android:text="@string/cancel"
                 android:layout_marginRight="10dp"
                 android:layout_marginLeft="20dp"
-                android:textColor="@color/white"
+                android:textColor="@color/delete"
                 android:background="@drawable/custom_button"/>
 
             <Button
