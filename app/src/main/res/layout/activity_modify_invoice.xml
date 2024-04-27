@@ -44,6 +44,7 @@
                     android:layout_weight="1"
                     android:background="@color/teal_700"
                     android:text="@string/invoice"
+                    android:gravity="center_vertical|center_horizontal"
                     android:textColor="@color/white"
                     android:textSize="30sp" />
             </LinearLayout>
