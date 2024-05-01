@@ -13,7 +13,7 @@
     <string name="searchByDate">Search by date</string>
     <string name="catalogNumber"> ID</string>
     <string name="itemName"> name</string>
-    <string name="itemPrice">product price</string>
+    <string name="itemPrice">price</string>
     <string name="add">add</string>
     <string name="cancel">Cancel</string>
     <string name="updateItem">Update item</string>
@@ -31,7 +31,7 @@
     <string name="number">num</string>
     <string name="invoice">Invoicing</string>
     <string name="search">search</string>
-    <string name="itemsList"> products</string>
+    <string name="itemsList"> main page</string>
     <string name="invoicesList">list of invoices</string>
     <string name="print">print</string>
     <string name="showAll"> all products</string>

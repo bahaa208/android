@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="10dp"
-    android:background="#ECAFC4"
+    android:background="#F3E4D4FF"
     android:layout_marginBottom="10dp">
 
     <LinearLayout
@@ -43,7 +43,7 @@
                 android:layout_height="match_parent"
                 android:layout_gravity="center_vertical"
                 android:background="@color/teal_700"
-                android:gravity="center_vertical"
+                android:gravity="center_vertical|center_horizontal"
                 android:text="@string/itemsList"
                 android:textColor="@color/white"
                 android:textSize="20sp" />
@@ -126,7 +126,7 @@
         android:dividerHeight="1dp"
         android:minHeight="30dp"
         android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp"></ListView>
+        android:layout_marginRight="10dp"/>
 
     <TextView
         android:id="@+id/empty"
