@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         dbManager.open();
 
         itemsListView = (ListView) findViewById(R.id.itemsList);
-//        itemsListView.setEmptyView(findViewById(R.id.noItems));
+
 
         addInvoices = (Button) findViewById(R.id.addInvoice);
 
@@ -64,6 +64,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent list_intent = new Intent(getApplicationContext(), ItemsListActivity.class);
                 startActivityForResult(list_intent, REQUEST_OK);
+
             }
         });
 
